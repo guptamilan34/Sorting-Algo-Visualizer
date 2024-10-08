@@ -1,8 +1,6 @@
 # Sorting Visualizer
 ![Alt Text](https://github.com/fomosapien23/-sorting-visualizer/blob/main/app/img/demo-sorting-landingpage.png)
 
-Sorting Visualizer is an interactive platform used to visualize multiple sorting algorithms. Implemented algorithms like Bubble Sort, Selection Sort, Merge Sort, and Quick Sort. Link: https://sorting-visualizer-yo6d.onrender.com
-
 ### Tools/Technologies used:
 
 `HTML` `CSS` `JavaScript`
